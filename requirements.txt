@@ -1,0 +1,7 @@
+flask
+mysql-connector
+Flask-SQLAlchemy
+flask-bootstrap
+pandas
+imgkit
+wkhtmltopdf
